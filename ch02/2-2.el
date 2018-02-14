@@ -1,0 +1,12 @@
+(defun circle-area (radix)
+  (let ((pi 3.1415926)
+    area)
+  (setq area (* pi radix radix))
+  (message "直径为 %.2f 的圆面积是 %.2f" radix area)))
+(circle-area 3)
+
+(defun circle-area1 (radix)
+  (let* ((pi 3.1415926)
+	 (area (* pi radix radix)))
+    (message "直径为 %.2f 的圆面积是 %.2f" radix area)))
+(circle-area1 4)
