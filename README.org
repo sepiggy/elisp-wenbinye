@@ -1,1 +1,5 @@
-* Demos for [[www.baidu.com][百度]]
+* Demos for [[https://usermanual.wiki/Pdf/ElispE585A5E997A8EFBC88E58FB6E69687E5BDACEFBC8CE680BBE7BB93E887AAEmacs20Lisp20Reference20ManualEFBC89.143766301/view][Elisp入门by叶文彬]]
+** 第一章 一个Hello World例子
+** 第二章 基础知识
+** 第三章 基本数据类型之一 ----- 数字
+** 第四章 基本数据类型之二 ---- 字符和字符串 
